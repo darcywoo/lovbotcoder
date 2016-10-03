@@ -1,0 +1,59 @@
+HW2 Testing Data
+
+选择结构练习1
+
+
+————Question: 2-1-9————
+
+//Data Set 1
+	Input:	 1 1 3
+	Output:  ERROR!
+
+//Data Set 2
+	Input:   1 1 1.5
+	Output   0.50(如果精确到两位小数)
+
+//Data Set 3
+	Input:   3 4 5 
+	Output   6.00(如果精确到两位小数)
+	
+//Data Set 4
+	Input:   2 3 1
+	Ouput:   ERROR!
+	
+//Data Set 5
+	Input:   499 5 5
+	Ouput:   ERROR!
+
+//Data Set 6
+	Input:   2 2.1 4
+	Ouput:   0.90(如果精确到两位小数)
+	
+//Data Set 7
+	Input:   3.8 2.9 6.4
+	Ouput:   3.14(如果精确到两位小数)
+	
+	
+	
+	在线测试网站link:
+	http://www.mathopenref.com/heronsformula.html
+	
+
+————Question: 2-1-10————
+
+//Data Set 1
+	Input:	 2000 1 3
+	Output:  Fish
+
+//Data Set 2
+	Input:   2088 1 4 
+	Output   Net
+
+//Data Set 3
+	Input:   2015 3 6 
+	Output   Net
+	
+//Data Set 4
+	Input:   2016 3 6
+	Ouput:   Fish
+	
