@@ -98,11 +98,8 @@ HW2 Testing Data
 
 
 //Data Set 6
-	Input:   5 -1 
+	Input:   5 -1 3
 	Ouput:   -7
-
-	在线测试网站: 
-	http://www.csgnetwork.com/csgcvtcmeters2ftincalc.html
 	
 
 
